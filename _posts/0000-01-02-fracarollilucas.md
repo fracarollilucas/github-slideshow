@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Colorless green ideas sleep furiously.
+yodel-ay hee hoo.
 Use the left arrow to go back!
